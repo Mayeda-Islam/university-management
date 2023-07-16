@@ -1,50 +1,50 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\.1400b0a57a17efa010c94d7cae356af6727f07ec-audit.json",
+  "files": [
+    {
+      "date": 1688635099037,
+      "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-06-15-success.log",
+      "hash": "8acbd2d6ecb0a0f5d45bdee5007bae7a1ca911c8f1aa1eb530b2abc76f88f6b0"
     },
-    "auditLog": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\.1400b0a57a17efa010c94d7cae356af6727f07ec-audit.json",
-    "files": [
-        {
-            "date": 1688635099037,
-            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-06-15-success.log",
-            "hash": "8acbd2d6ecb0a0f5d45bdee5007bae7a1ca911c8f1aa1eb530b2abc76f88f6b0"
-        },
-        {
-            "date": 1688637682003,
-            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-06-16-success.log",
-            "hash": "c0ba2fd5fa3172b1c0b9722bf72e15492d4e19b5dc0c7d97e2e5f2128e873d17"
-        },
-        {
-            "date": 1688641245086,
-            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-06-17-success.log",
-            "hash": "cb9e3b0e35a2d686e9f5f6e0e207cf5f3f67d4204ec78edc0e96fcc47b0f3460"
-        },
-        {
-            "date": 1688661614570,
-            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-06-22-success.log",
-            "hash": "fda15bcb058fefdcc79fbc8975f667c78414fd21c69105fb6b168d1e8eb334fb"
-        },
-        {
-            "date": 1688720419137,
-            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-07-15-success.log",
-            "hash": "44d058412f1c13924eebc09daa82bba26dee37698c42342ab051a9783cb5a12d"
-        },
-        {
-            "date": 1688724203843,
-            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-07-16-success.log",
-            "hash": "1585438cf315ebea5edbdac885a5fa7538537675418656e1c07d44b2d22e05eb"
-        },
-        {
-            "date": 1689097639778,
-            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-11-23-success.log",
-            "hash": "062974c8611359d43423dfe3f71b815ca01419ff242ebbb8962d5cafa64c029f"
-        },
-        {
-            "date": 1689098417603,
-            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-12-00-success.log",
-            "hash": "c2146d6b24d390ef94e79f76ee43425d3ec290e9a1120699a3f1641b16481858"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1688637682003,
+      "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-06-16-success.log",
+      "hash": "c0ba2fd5fa3172b1c0b9722bf72e15492d4e19b5dc0c7d97e2e5f2128e873d17"
+    },
+    {
+      "date": 1688641245086,
+      "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-06-17-success.log",
+      "hash": "cb9e3b0e35a2d686e9f5f6e0e207cf5f3f67d4204ec78edc0e96fcc47b0f3460"
+    },
+    {
+      "date": 1688661614570,
+      "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-06-22-success.log",
+      "hash": "fda15bcb058fefdcc79fbc8975f667c78414fd21c69105fb6b168d1e8eb334fb"
+    },
+    {
+      "date": 1688720419137,
+      "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-07-15-success.log",
+      "hash": "44d058412f1c13924eebc09daa82bba26dee37698c42342ab051a9783cb5a12d"
+    },
+    {
+      "date": 1688724203843,
+      "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-07-16-success.log",
+      "hash": "1585438cf315ebea5edbdac885a5fa7538537675418656e1c07d44b2d22e05eb"
+    },
+    {
+      "date": 1689097639778,
+      "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-11-23-success.log",
+      "hash": "062974c8611359d43423dfe3f71b815ca01419ff242ebbb8962d5cafa64c029f"
+    },
+    {
+      "date": 1689098417603,
+      "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-07-12-00-success.log",
+      "hash": "c2146d6b24d390ef94e79f76ee43425d3ec290e9a1120699a3f1641b16481858"
+    }
+  ],
+  "hashType": "sha256"
 }

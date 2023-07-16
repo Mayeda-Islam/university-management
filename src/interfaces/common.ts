@@ -1,13 +1,10 @@
 import IGenericErrorMessage from './error';
 
 export type IGenericResponse<T> = {
-  statusCode: number;
-  success: boolean;
-  message: string | null;
   meta: {
-    page: number;
-    limit: number;
-    total: number;
+    page?: number;
+    limit?: number;
+    total?: number;
   };
   data: T;
 };
