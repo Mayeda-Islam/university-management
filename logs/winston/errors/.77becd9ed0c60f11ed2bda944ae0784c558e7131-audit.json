@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\.77becd9ed0c60f11ed2bda944ae0784c558e7131-audit.json",
+    "files": [
+        {
+            "date": 1689098447282,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-12-00-success.log",
+            "hash": "b8f241e836b13e288a0719234e59762145738213f8f6f8eb89afe6efd0148e9a"
+        }
+    ],
+    "hashType": "sha256"
+}
