@@ -139,6 +139,11 @@
             "date": 1689518925355,
             "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-16-07-20-success.log",
             "hash": "14d1d2c74739bf310493cf5f117639d407f63104cd0639436e2e3a6af53c2aca"
+        },
+        {
+            "date": 1689519893029,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\successes\\uni-management-2023-16-07-21-success.log",
+            "hash": "25255867e15d7205921b3679ce74370ffa54a550d581d5348ef4befb9e498234"
         }
     ],
     "hashType": "sha256"

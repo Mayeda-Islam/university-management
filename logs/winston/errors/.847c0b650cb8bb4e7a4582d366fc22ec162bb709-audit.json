@@ -104,6 +104,11 @@
             "date": 1689518925364,
             "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-16-20-error.log",
             "hash": "bf3e083cd314fd0b9b0297acdd2f3cee9ff6e15058ff1dd710291487e94e1f67"
+        },
+        {
+            "date": 1689519893048,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-16-21-error.log",
+            "hash": "278639f36f8615302700fdf8dcba3c739c9ad872ff115ce7b4208e7663714578"
         }
     ],
     "hashType": "sha256"
