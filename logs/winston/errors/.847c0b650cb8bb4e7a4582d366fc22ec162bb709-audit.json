@@ -109,6 +109,71 @@
             "date": 1689519893048,
             "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-16-21-error.log",
             "hash": "278639f36f8615302700fdf8dcba3c739c9ad872ff115ce7b4208e7663714578"
+        },
+        {
+            "date": 1689524953467,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-16-22-error.log",
+            "hash": "e4c67dd453cf4515ce12c954612c61a1cc76916c60f647de4d2442523f6a4e9d"
+        },
+        {
+            "date": 1689682000184,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-18-18-error.log",
+            "hash": "7d6408226fc628778b8a62914339eb7d11c7f5107920ae372aca5620a1fc3116"
+        },
+        {
+            "date": 1689685566661,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-18-19-error.log",
+            "hash": "ff38ad667a53b0d78e58272940a4c35a1df60ba1339e887881bbaa7ce2290630"
+        },
+        {
+            "date": 1689690123282,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-18-20-error.log",
+            "hash": "7c50048770f6e2606826158ac45cd703569e69b8b82f8f7047046a4a5228d5fa"
+        },
+        {
+            "date": 1689694437950,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-18-21-error.log",
+            "hash": "bbab3792fab23464ef87639eda4a6d7a5735e75cf4947f4c6da5df7bd8a3ff3f"
+        },
+        {
+            "date": 1689832125705,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-20-11-error.log",
+            "hash": "37a699f5179cc967d4400223e02ec1854a8473648a0572a9dc772f00975c130c"
+        },
+        {
+            "date": 1689832836803,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-20-12-error.log",
+            "hash": "eb1a667039633fd6e23155f117c31112e5e8577d0dc3fe4dc4267a9aa52c075e"
+        },
+        {
+            "date": 1689837857852,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-20-13-error.log",
+            "hash": "200f14faaa38724d89b8bb63b640a1f571196ee8f48c391934833d203633f9db"
+        },
+        {
+            "date": 1689842286119,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-20-14-error.log",
+            "hash": "fe6dda9483a091a28aad6ce88110884f11b0a09b170e123a85e5a8469d5a6631"
+        },
+        {
+            "date": 1690094376553,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-23-12-error.log",
+            "hash": "9e86a10af6aca40bfc8d68cfd440570c857bb232e3d80bf618eeb8fca1670dcf"
+        },
+        {
+            "date": 1690095644319,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-23-13-error.log",
+            "hash": "c1d0ade1497ac8ed99691a050711ddb5cb21c879ca84023937a1f3e0c2e3cd3e"
+        },
+        {
+            "date": 1690099323007,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-23-14-error.log",
+            "hash": "ebfcd468d8e902ee23866f4d6a52aa4ab2f957adbe3207fdb05d4bafea2be4fc"
+        },
+        {
+            "date": 1690121028408,
+            "name": "C:\\Users\\User\\Desktop\\phero-level-2\\milestone-3\\uni-management-service\\logs\\winston\\errors\\uni-management-2023-07-23-20-error.log",
+            "hash": "f505734176e7c288aaa0b8b3b4d862aace2673a4bcff691d4e6e376dfcae82ce"
         }
     ],
     "hashType": "sha256"

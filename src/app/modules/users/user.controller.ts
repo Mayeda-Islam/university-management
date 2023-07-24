@@ -4,9 +4,9 @@ import catchAsync from '../../../shared/catchAsync';
 import sendResponse from '../../../shared/sendResponse';
 // import { z } from 'zod'
 
-const createUser = catchAsync(async (req, res) => {
-  const { user } = req.body;
-  const result = await UsersService.createUser(user);
+const createStudent = catchAsync(async (req, res) => {
+  const { student, ...userData } = req.body;
+  const result = await UsersService.createStudent(student, userData);
 
   sendResponse(res, {
     success: true,
@@ -15,4 +15,4 @@ const createUser = catchAsync(async (req, res) => {
     data: result,
   });
 });
-export const UserController = { createUser };
+export const UserController = { createStudent };

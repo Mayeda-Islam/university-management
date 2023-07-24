@@ -5,6 +5,10 @@ import cors from 'cors';
 import globalErrorHandler from './app/moddlewares/GlobalHandler';
 
 import routes from './app/modules/routes';
+import {
+  generateFacultyId,
+  generateStudentId,
+} from './app/modules/users/user.utils';
 
 const app: Application = express();
 
@@ -41,4 +45,10 @@ app.use((req: Request, res: Response, next: NextFunction) => {
 //global error handler
 app.use(globalErrorHandler);
 
+const testId = async () => {
+  const testId = await generateFacultyId();
+  console.log(testId);
+};
+
+testId();
 export default app;

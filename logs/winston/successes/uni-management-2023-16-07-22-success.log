@@ -3,12 +3,19 @@
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-06T11:00:48.580Z'
+  timestamp: '2023-07-16T16:29:36.190Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-06T11:02:39.419Z'
+  timestamp: '2023-07-16T16:30:36.497Z'
+}
+{
+  message: 'Example app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-07-16T16:51:28.362Z'
 }

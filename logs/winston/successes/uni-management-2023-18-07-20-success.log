@@ -3,124 +3,103 @@
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:00:22.920Z'
+  timestamp: '2023-07-18T14:34:16.885Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:01:57.982Z'
+  timestamp: '2023-07-18T14:36:03.720Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:11:03.291Z'
+  timestamp: '2023-07-18T14:36:17.927Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:11:31.662Z'
+  timestamp: '2023-07-18T14:36:53.607Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:12:08.451Z'
+  timestamp: '2023-07-18T14:37:13.171Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:12:43.344Z'
+  timestamp: '2023-07-18T14:37:25.556Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:13:02.081Z'
+  timestamp: '2023-07-18T14:37:44.026Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:13:17.385Z'
+  timestamp: '2023-07-18T14:37:53.569Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:13:36.955Z'
+  timestamp: '2023-07-18T14:38:04.507Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:15:07.287Z'
+  timestamp: '2023-07-18T14:38:27.407Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:16:47.316Z'
+  timestamp: '2023-07-18T14:39:03.165Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:17:20.260Z'
+  timestamp: '2023-07-18T14:46:31.193Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:20:09.513Z'
+  timestamp: '2023-07-18T14:47:50.604Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:21:44.917Z'
+  timestamp: '2023-07-18T14:50:04.920Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   service: 'user-service',
   label: 'right meow!',
-  timestamp: '2023-07-07T09:33:19.684Z'
-}
-{
-  message: 'Example app listening on port 5000',
-  level: 'info',
-  service: 'user-service',
-  label: 'right meow!',
-  timestamp: '2023-07-07T09:35:51.182Z'
-}
-{
-  message: 'Example app listening on port 5000',
-  level: 'info',
-  service: 'user-service',
-  label: 'right meow!',
-  timestamp: '2023-07-07T09:37:35.627Z'
-}
-{
-  message: 'Example app listening on port 5000',
-  level: 'info',
-  service: 'user-service',
-  label: 'right meow!',
-  timestamp: '2023-07-07T09:54:27.624Z'
+  timestamp: '2023-07-18T14:50:16.141Z'
 }

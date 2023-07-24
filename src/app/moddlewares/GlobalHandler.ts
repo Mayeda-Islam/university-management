@@ -6,6 +6,8 @@ import handleValidationError from '../../errors/handleValidationError';
 import ApiError from '../../errors/ApiErrors';
 import { errorLogger } from '../../shared/logger';
 import handleZodError from '../../errors/handleZodError';
+import httpStatus from 'http-status';
+import handleCastError from '../../errors/handleCastError';
 
 const globalErrorHandler: ErrorRequestHandler = (err, req, res, next) => {
   // eslint-disable-next-line no-unused-expressions
@@ -27,6 +29,11 @@ const globalErrorHandler: ErrorRequestHandler = (err, req, res, next) => {
     statusCode = simplifiedError?.statusCode;
     message = simplifiedError?.message;
     errorMessages = simplifiedError?.errorMessages;
+  } else if (err?.name === 'CastError') {
+    const simplifiedError = handleCastError(err);
+    statusCode = simplifiedError.statusCode;
+    message = simplifiedError.message;
+    errorMessages = simplifiedError.errorMessages;
   } else if (err instanceof ApiError) {
     statusCode = err?.statusCode;
     message = err?.message;
@@ -55,7 +62,5 @@ const globalErrorHandler: ErrorRequestHandler = (err, req, res, next) => {
     errorMessages,
     stack: config.env !== 'production' ? err?.stack : undefined,
   });
-
-  next();
 };
 export default globalErrorHandler;

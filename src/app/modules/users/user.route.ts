@@ -5,8 +5,8 @@ import validateRequest from '../../moddlewares/validateRequest';
 const router = express.Router();
 
 router.post(
-  '/create-user',
+  '/create-student',
   validateRequest(userValidation.createUsereZodShema),
-  UserController.createUser
+  UserController.createStudent
 );
 export const UserRoutes = router;
