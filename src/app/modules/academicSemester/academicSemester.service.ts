@@ -33,14 +33,10 @@ const getAllSemesters = async (
   if (searchTerm) {
     andConditions.push({
       $or: academicsSemesterSearchableFields.map(field => ({
-        $or: [
-          {
-            [field]: {
-              $regex: searchTerm,
-              $options: 'i',
-            },
-          },
-        ],
+        [field]: {
+          $regex: searchTerm,
+          $options: 'i',
+        },
       })),
     });
   }

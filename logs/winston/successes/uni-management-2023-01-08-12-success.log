@@ -1,0 +1,7 @@
+{
+  message: 'Example app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'right meow!',
+  timestamp: '2023-08-01T06:11:09.836Z'
+}

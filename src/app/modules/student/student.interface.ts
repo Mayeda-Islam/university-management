@@ -25,7 +25,7 @@ export type LocalGuardian = {
 };
 
 export type IStudent = {
-  id: string;
+  id: string | undefined;
   name: UserName;
   dateOfBirth: string;
   email: string;
@@ -41,5 +41,13 @@ export type IStudent = {
   academicDepartment: Types.ObjectId | IAcademicDepartment;
   academicSemester: Types.ObjectId | IAcademicSemester;
   profileImage?: string;
+};
+export type IStudentFilter = {
+  searchTerm: string;
+  id?: string;
+  bloodGroup?: string;
+  email?: string;
+  contactNo?: string;
+  emergencyContactNo?: string;
 };
 export type StudentModel = Model<IStudent, Record<string, unknown>>;
